@@ -3,7 +3,7 @@
 
 - 🔭 Aspiring to be an excellent fullstack developer
 
-- 🧑‍🎓 Graduating in IMC University of Applied Sciences
+- 🧑‍🎓 Graduating at IMC University of Applied Sciences
 
 - 😎 I'm happy to help. Feel free to contact me at melvinpariyadan@gmail.com
 
