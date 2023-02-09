@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Melvin Pariyadan</h1>
 <h3 align="center">I am a Software Developer</h3>
 
-- 🔭 Aspiring to be a full stack developer
+- 🔭 Aspiring to be an excellent fullstack developer
 
 - 🧑‍🎓 Graduating in IMC University of Applied Sciences
 
+- 😎 I'm happy to help. Feel free to contact me at melvinpariyadan@gmail.com
 
-- 😎 I'm happy to helpEmail me at melvinpariyadan@gmail.com
-
-- 
 
 <p align="left">
 </p>
