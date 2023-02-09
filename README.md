@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Melvin Pariyadan</h1>
 <h3 align="center">I am a Software Developer</h3>
 
-- 🔭 I’m currently working on **a Startup**
+- 🔭 Aspiring to be a full stack developer
 
-- 🌱 I’m currently learning **React Native**
+- 🧑‍🎓 Graduating in IMC University of Applied Sciences
 
-<h3 align="left">Connect with me:</h3>
+
+- 😎 I'm happy to helpEmail me at melvinpariyadan@gmail.com
+
+- 
+
 <p align="left">
 </p>
 
